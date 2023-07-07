@@ -19,3 +19,4 @@ Thumbs.db
 #############
 ~$*.doc
 ~WRL*.tmp
+access_token.json
